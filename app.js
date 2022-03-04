@@ -1,1 +1,1 @@
-alert('after commit')
+alert('crazy colors')
